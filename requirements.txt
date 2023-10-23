@@ -1,0 +1,9 @@
+fastapi==0.104.0
+Pillow==10.1.0
+Requests==2.31.0
+torch==2.0.1
+transformers==4.35.0.dev0
+huggingface-hub
+python-multipart
+opencv-python-headless
+
